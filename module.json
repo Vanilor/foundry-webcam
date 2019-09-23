@@ -1,0 +1,17 @@
+{
+  "name": "foundry-webcam",
+  "title": "Foundry Webcam",
+  "description": "Adds the ability to stream the webcam to other users in FoundryVTT.",
+  "version": "0.0.1",
+  "author": "Marcell Klepper (Vanilor)",
+  "scripts": [
+    "./scripts/foundry-webcam.js"
+  ],
+  "styles": [
+    "./css/foundry-webcam.css"
+  ],
+  "packs": [],
+//  "url": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator",
+//  "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json",
+//  "download": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/-/archive/master/foundry-vtt-dice-calculator-master.zip"
+}
