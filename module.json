@@ -11,7 +11,7 @@
     "./css/foundry-webcam.css"
   ],
   "packs": [],
-//  "url": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator",
-//  "manifest": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/raw/master/module.json",
-//  "download": "https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator/-/archive/master/foundry-vtt-dice-calculator-master.zip"
+  "url": "https://github.com/Vanilor/foundry-webcam",
+  "manifest": "https://github.com/Vanilor/foundry-webcam/blob/master/module.json",
+  "download": "https://raw.githubusercontent.com/Vanilor/foundry-webcam/master/foundry-webcam.zip"
 }
